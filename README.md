@@ -39,6 +39,4 @@
   <img alt="EduardoFVM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFVM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" height="180px"/>
   
   <br><br>
-  
-  <img alt="EduardoFVM's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoFVM&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
+  </div>
