@@ -21,7 +21,7 @@
   <h2>Technologies That I Know 👨🏻‍💻</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=java,js,c,cpp,kotlin,php&perline=8" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,canva&perline=8" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma&perline=8" /><br>
     <img src="https://skillicons.dev/icons?i=mysql&perline=8" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,discord&perline=8" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,sublime,androidstudio,idea,eclipse,netbeans&perline=8" />
